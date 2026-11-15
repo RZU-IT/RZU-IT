@@ -12,7 +12,7 @@ Le projet est expérimental. Les tests effectués et les limites par plateforme 
 
 | Projet | Présentation | Aperçu |
 | --- | --- | --- |
-| [Portfolio](https://github.com/RZU-IT/rouzeau-portfolio.fr) | Parcours et projets techniques : réseau, sécurité, développement. | [Ouvrir](https://rzu-it.github.io/rouzeau-portfolio.fr/) |
+| [Portfolio (old)](https://github.com/RZU-IT/rouzeau-portfolio.fr) | Ancien portfolio technique, conservé pour consultation. | [Ouvrir](https://rzu-it.github.io/rouzeau-portfolio.fr/) |
 | [Maison Bulléa](https://github.com/RZU-IT/maison-bullea.fr) | Univers visuel et catalogue de savons. | [Ouvrir](https://rzu-it.github.io/maison-bullea.fr/) |
 | [Nacrée Botanique](https://github.com/RZU-IT/nacree-botanique) | Vitrine florale et animations au défilement. | [Ouvrir](https://rzu-it.github.io/nacree-botanique/) |
 | [Maison Durand](https://github.com/RZU-IT/maison-durand.fr) | Présentation d'une maison de pruneaux d'Agen. | [Ouvrir](https://rzu-it.github.io/maison-durand.fr/) |
